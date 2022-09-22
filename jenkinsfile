@@ -1,0 +1,11 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Pankaj kumar') {
+            steps {
+                echo 'Hello Varanasi'
+            }
+        }
+    }
+}
